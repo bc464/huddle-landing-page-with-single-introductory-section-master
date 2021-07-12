@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-Screenshot 2021-07-12 at 15-09-55 Frontend Mentor Huddle landing page with single introductory section](https://user-images.githubusercontent.com/82536545/125293651-e6c59100-e323-11eb-8072-f170e0ce526f.png)
+![Screenshot 2021-07-12 at 15-09-55 Frontend Mentor Huddle landing page with single introductory section](https://user-images.githubusercontent.com/82536545/125293651-e6c59100-e323-11eb-8072-f170e0ce526f.png)
 
 - Solution URL: https://bc464.github.io/huddle-landing-page-with-single-introductory-section-master/
 
